@@ -8,6 +8,7 @@ Sou um estudante de Ciência da Computação apaixonado por tecnologia e desenvo
 - HTML5
 - CSS3
 - JavaScript (ES6+)
+- Node.js
 - Git e GitHub
 - Estrutura de dados e lógica de programação
 - Frameworks como React (em breve!)
