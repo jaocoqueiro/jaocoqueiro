@@ -24,10 +24,10 @@ Estou estudando de forma consistente para conseguir minha **primeira vaga como E
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jaocoqueiro&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaocoqueiro&layout=compact&theme=tokyonight" />
-</div>
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jaocoqueiro&show_icons=true&theme=tokyonight&count_private=true" width="48%"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaocoqueiro&layout=compact&theme=tokyonight" width="48%"/>
+</p>
 
 ---
 
@@ -36,13 +36,6 @@ Estou estudando de forma consistente para conseguir minha **primeira vaga como E
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jaocoqueiro&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
 </div>
-
----
-
-## 🐍 Snake das contribuições (requer configuração extra)
-
-![snake gif](https://github.com/jaocoqueiro/jaocoqueiro/blob/output/github-contribution-grid-snake.svg)
-<img src="https://raw.githubusercontent.com/jaocoqueiro/jaocoqueiro/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ---
 
