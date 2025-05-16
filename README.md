@@ -1,79 +1,61 @@
 # 👋 Olá, eu sou João Pedro Coqueiro!
 
-<!-- Fale um pouco sobre você, quem é, de onde é, o que te motiva na área de tecnologia. -->
 Sou um estudante de Ciência da Computação apaixonado por tecnologia e desenvolvimento de software. Tenho me dedicado a estudar programação com foco em desenvolvimento **Full Stack JavaScript**, começando pelo front-end.
+
+---
 
 ## 🚀 Tecnologias que estou estudando
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- Node.js
-- Git e GitHub
-- Estrutura de dados e lógica de programação
-- Frameworks como React (em breve!)
+- 📄 HTML5
+- 🎨 CSS3
+- 📜 JavaScript (ES6+)
+- 🌐 Node.js
+- 🔧 Git e GitHub
+- 🧠 Estrutura de dados e lógica de programação
+- ⚛️ React (em breve!)
 
-<!-- Acrescente outras tecnologias ou ferramentas que você já conhece ou está aprendendo. -->
+---
 
 ## 🎯 Objetivo
 
-<!-- Qual o seu objetivo atual? -->
 Estou estudando de forma consistente para conseguir minha **primeira vaga como Estagiário ou Junior**. Meu foco atual está no front-end, mas quero evoluir também no back-end com Node.js.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jaocoqueiro&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaocoqueiro&layout=compact&theme=tokyonight" />
+</div>
+
+---
+
+## 🔥 Streaks de Contribuições
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=jaocoqueiro&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
+</div>
+
+---
+
+## 🐍 Snake das contribuições (requer configuração extra)
+
+![snake gif](https://github.com/jaocoqueiro/jaocoqueiro/blob/output/github-contribution-grid-snake.svg)
+
+---
 
 ## 🛠️ Projetos
 
 Em breve...
 
-<!-- 
+---
 
-Aqui você pode conferir alguns dos meus projetos:
-- [Projeto 1 - Nome do projeto](link-do-repositório)
-- [Projeto 2 - Nome do projeto](link-do-repositório)
+## 📫 Entre em contato
 
-Inclua links de projetos no GitHub que você deseja destacar -->
-
-<!--
-## 📚 Atualmente estou estudando
-
-- JavaScript avançado
-- DOM e eventos
-- Git e versionamento
-- Desenvolvimento de interfaces responsivas
-
-Pode atualizar com cursos, trilhas ou tópicos específicos -->
-
-## 💬 Algumas curiosidades sobre mim
-
-- 🎧 Gosto de estudar ouvindo música indie/ambient sound
-- 🚲 Gosto de explorar a cidade de Bike
-- 🌱 Me interesso por desenvolvimento web e futuramente por inteligência artificial
-
-<!-- Acrescente hobbies, interesses ou algo que te represente como pessoa. -->
-
-## 📫 Como me encontrar
-
--GitHub: [@jaocoqueiro]()
-- Email: pbarros215@gmail.com
+<!--[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN)-->
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pbarros215@gmail.com)
 
 ---
 
 > “A jornada é tão importante quanto o destino.”
-
-<!-- Se quiser, adicione uma frase que te inspira ou uma citação que goste. -->
-
-
-
-<!--
-**jaocoqueiro/jaocoqueiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
