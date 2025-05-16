@@ -42,6 +42,7 @@ Estou estudando de forma consistente para conseguir minha **primeira vaga como E
 ## 🐍 Snake das contribuições (requer configuração extra)
 
 ![snake gif](https://github.com/jaocoqueiro/jaocoqueiro/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/jaocoqueiro/jaocoqueiro/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ---
 
