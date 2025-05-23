@@ -41,7 +41,7 @@ Estou estudando de forma consistente para conseguir minha **primeira vaga como E
 
 ## 🛠️ Projetos
 
-Em breve...
+Em breve..
 
 ---
 
