@@ -28,7 +28,9 @@ Estou estudando de forma consistente para conseguir minha **primeira vaga como E
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaocoqueiro&layout=compact&theme=tokyonight&cache_seconds=300" width="48%" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaocoqueiro&include_all_commits=true&theme=tokyonight&show_icons=true&count_private=true">
+<img src="https://github-readme-stats-jaocoqueiro.vercel.app/api?username=jaocoqueiro&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800" />
+
+
 <p>
   <img height="170cm" width="50%" src="https://github-readme-stats.vercel.app/api?username=jaocoqueiro&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=300&random=123&include_all_commits=true" />
 </p>
