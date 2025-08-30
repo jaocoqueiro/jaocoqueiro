@@ -9,9 +9,8 @@ Sou um estudante de Ciência da Computação apaixonado por tecnologia e desenvo
 - 📄 HTML5
 - 🎨 CSS3
 - 📜 JavaScript (ES6+)
-- 🌐 Node.js
 - 🔧 Git e GitHub
-- 🧠 Estrutura de dados e lógica de programação
+- 🧠 Algorítimos e estrutura de dados 
 - ⚛️ React (em breve!)
 
 ---
@@ -28,6 +27,11 @@ Estou estudando de forma consistente para conseguir minha **primeira vaga como E
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jaocoqueiro&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=300" width="48%" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaocoqueiro&layout=compact&theme=tokyonight&cache_seconds=300" width="48%" />
 </p>
+
+<p>
+  <img height="170cm" width="50%" src="https://github-readme-stats.vercel.app/api?username=jaocoqueiro&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=300&random=1&include_all_commits=true" />
+</p>
+
 
 ---
 
