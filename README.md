@@ -20,6 +20,7 @@ Sou um estudante de Ciência da Computação apaixonado por tecnologia e desenvo
 Estou estudando de forma consistente para conseguir minha **primeira vaga como Estagiário ou Junior**. Meu foco atual está no front-end, mas quero evoluir também no back-end com Node.js.
 
 ---
+<img src="https://github-readme-stats.vercel.app/api?jaocoqueiro">
 <!--
 ## 📊 Estatísticas do GitHub
 
