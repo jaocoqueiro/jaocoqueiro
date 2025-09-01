@@ -22,7 +22,7 @@ Estou estudando de forma consistente para conseguir minha **primeira vaga como E
 ---
 
 ## 📊 Estatísticas do GitHub
-
+/*
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jaocoqueiro&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=300" width="48%" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaocoqueiro&layout=compact&theme=tokyonight&cache_seconds=300" width="48%" />
@@ -36,15 +36,15 @@ Estou estudando de forma consistente para conseguir minha **primeira vaga como E
 <p>
   <img height="170cm" width="50%" src="https://github-readme-stats.vercel.app/api?username=jaocoqueiro&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=300&random=123&include_all_commits=true" />
 </p>
-
+*/
 
 ---
 
 ## 🔥 Streaks de Contribuições
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=jaocoqueiro&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
-</div>
+//<div align="center">
+//  <img src="https://streak-stats.demolab.com?user=jaocoqueiro&theme=tokyonight&date_format=j%20M%5B%20Y%5D" />
+//</div>
 
 ---
 
