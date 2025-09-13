@@ -18,9 +18,10 @@ Buscando meu primeiro estágio para iniciar minha jornada profissional em desenv
 
 ## 📊 Estatísticas do GitHub
 
-[![Anurag's GitHub stats](https://github-readme-stats-two-chi-29.vercel.app/?username=jaocoqueiro&show_icons=true&theme=blue_navy&cache_seconds=21600&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaocoqueiro&show_icons=true&theme=blue_navy&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaocoqueiro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaocoqueiro&layout=compact&theme=blue_navy)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ## 📫 Entre em contato
