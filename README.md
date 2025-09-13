@@ -17,7 +17,7 @@ Buscando meu primeiro estágio para iniciar minha jornada profissional em desenv
 ---
 
 ## 📊 Estatísticas do GitHub
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; justify-content: space-around;;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-two-chi-29.vercel.app/api?username=jaocoqueiro&show_icons=true&theme=blue_navy&include_all_commits=true" />
   </a>
