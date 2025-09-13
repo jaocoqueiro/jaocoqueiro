@@ -1,5 +1,5 @@
-# João Pedro Coqueiro!
-
+# 👋 Olá, eu sou João Pedro Coqueiro
+ 
 Estudante de Ciência da Computação, 21 anos, entusiasta de tecnologia e desenvolvimento de software.
 Atualmente focado em Front-end com JavaScript, mas com interesse futuro em Full Stack.
 Buscando meu primeiro estágio para iniciar minha jornada profissional em desenvolvimento web.
@@ -13,12 +13,6 @@ Buscando meu primeiro estágio para iniciar minha jornada profissional em desenv
 - 📜 JavaScript (ES6+)
 - 🔧 Git e GitHub
 - 🧠 Algorítimos e estrutura de dados 
-
----
-
-## 🎯 Objetivo
-
-Estou estudando de forma consistente para conseguir minha **primeira vaga como Estagiário ou Junior**. Meu foco atual está no front-end, mas quero evoluir também no back-end com Node.js.
 
 ---
 
