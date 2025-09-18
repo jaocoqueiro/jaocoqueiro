@@ -25,6 +25,11 @@ Buscando meu primeiro estágio para iniciar minha jornada profissional em desenv
 </div>
 
 ---
+
+![Snake animation](https://github.com/seu-usuário-aqui/jaocoqueiro/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 📫 Entre em contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedrocoqueiro)
