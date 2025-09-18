@@ -26,6 +26,11 @@ Buscando meu primeiro estágio para iniciar minha jornada profissional em desenv
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <img alt="github-snake" src="https://github.com/jaocoqueiro/jaocoqueiro/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ![Snake animation](https://github.com/jaocoqueiro/jaocoqueiro/blob/output/github-contribution-grid-snake.svg)
 
 ---
