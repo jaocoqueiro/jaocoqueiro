@@ -19,10 +19,11 @@ jobs:
           github_user_name: jaocoqueiro
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Subir resultado para a branch output
+      - name: Publicar no branch output
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
