@@ -17,11 +17,10 @@ Buscando meu primeiro estágio para iniciar minha jornada profissional em desenv
 ---
 
 ## 📊 Estatísticas do GitHub
+
 <div style="display:flex; align-items: center; justify-content: center;">
- 
 <img src="https://github-readme-stats-two-chi-29.vercel.app/api?username=jaocoqueiro&show_icons=true&theme=blue_navy&include_all_commits=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaocoqueiro&layout=compact&theme=blue_navy&cache_seconds=21600" />
-
 </div>
 
 ---
@@ -33,7 +32,6 @@ Buscando meu primeiro estágio para iniciar minha jornada profissional em desenv
 ## 📫 Entre em contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedrocoqueiro)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pbarros215@gmail.com)
 
 ---
 
