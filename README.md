@@ -8,11 +8,12 @@ Buscando meu primeiro estágio para iniciar minha jornada profissional em desenv
 
 ## 🚀 Tecnologias que estou estudando
 
-- 📄 HTML5
-- 🎨 CSS3
-- 📜 JavaScript (ES6+)
-- 🔧 Git e GitHub
-- 🧠 Algorítimos e estrutura de dados 
+- 📄 HTML5  
+- 🎨 CSS3  
+- 📜 JavaScript (ES6+)  
+- 🐍 Python  
+- 🔧 Git e GitHub  
+- 🧠 Algoritmos e Estrutura de Dados  
 
 ---
 
