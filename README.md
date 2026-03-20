@@ -2,7 +2,7 @@
  
 Estudante de Ciência da Computação, 21 anos, entusiasta de tecnologia e desenvolvimento de software.
 Atualmente focado em Front-end com JavaScript, mas com interesse futuro em Full Stack.
-Buscando meu primeiro estágio para iniciar minha jornada profissional em desenvolvimento web.
+Buscando minha primeira oportinidade para iniciar minha jornada profissional como programador.
 
 ---
 
