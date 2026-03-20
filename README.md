@@ -13,7 +13,8 @@ Buscando meu primeiro estágio para iniciar minha jornada profissional em desenv
 - 📜 JavaScript (ES6+)  
 - 🐍 Python  
 - 🔧 Git e GitHub  
-- 🧠 Algoritmos e Estrutura de Dados  
+- 🧠 Algoritmos e Estrutura de Dados
+- ⚙️ Automações
 
 ---
 
@@ -28,9 +29,6 @@ Buscando meu primeiro estágio para iniciar minha jornada profissional em desenv
 
 ![Snake animation](https://github.com/jaocoqueiro/jaocoqueiro/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
 
----
-
-## 📫 Entre em contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaopedrocoqueiro)
 
