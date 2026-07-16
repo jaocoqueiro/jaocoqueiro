@@ -12,6 +12,7 @@ Estou em busca da minha **primeira oportunidade profissional** (Estágio ou Dev 
 
 - **Linguagens & Ecossistema:** JavaScript (ES6+), Node.js, HTML5, CSS3
 - **Bancos de Dados & Ferramentas:** Git, GitHub, VS Code, Obsidian (Gestão de Conhecimento)
+- **Diferencial / Automações:** Python, Streamlit, RPA (PyAutoGUI, OpenCV), n8n
 - **Em Aprendizado / Próximos Passos:** TypeScript, Bancos de Dados Relacionais (SQL), React
 
 ---
