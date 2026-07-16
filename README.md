@@ -27,7 +27,7 @@ Estou em busca da minha **primeira oportunidade profissional** (Estágio ou Dev 
 
 ### 📫 Vamos nos conectar?
 
-- 💼 **LinkedIn:** [link-do-seu-linkedin](https://www.linkedin.com/in/joaopedrocoqueiro/)
-- 📧 **E-mail:** [seu.email@exemplo.com](mailto:pbarros215@gmail.com)
+- 💼 **LinkedIn:** [joaopedrocoqueiro](https://www.linkedin.com/in/joaopedrocoqueiro/)
+- 📧 **E-mail:** [pbarros215@gmail.com](mailto:pbarros215@gmail.com)
 
 > “Se fosse fácil? Não ia ter gosto de vitória! - 2ZDiniz”
