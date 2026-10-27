@@ -1,6 +1,6 @@
 # Olá, eu sou João Pedro Coqueiro 👋
 
-🎓 **Estudante de Ciência da Computação** (22 anos) focado na construção de sistemas robustos, escaláveis e com base sólida em engenharia de software. 
+🎓 **Estudante de Ciência da Computação** focado na construção de sistemas robustos, escaláveis e com base sólida em engenharia de software. 
 
 Atualmente, dedico meus estudos ao ecossistema **Back-End com JavaScript (Node.js)**, aprofundando conceitos de lógica, estruturas de dados e arquitetura, com o objetivo de evoluir gradativamente para o desenvolvimento **Full Stack**.
 
